@@ -1,0 +1,5 @@
+{
+  "name": "Interval Pulse",
+  "description": "A precision timer that repeats at variable intervals within a custom range.",
+  "requestFramePermissions": []
+}
